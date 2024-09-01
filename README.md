@@ -5,7 +5,7 @@ This repository contains the code for an example project demonstrating asynchron
 
 ## Watch the Tutorial
 
-[![Master Async Programming with Caching in Rust](https://img.youtube.com/vi/2MQdEklDFX4/hqdefault.jpg)](https://youtu.be/2MQdEklDFX4)
+[![Master Async Programming with Caching in Rust](https://img.youtube.com/vi/2MQdEklDFX4/maxresdefault.jpg)](https://youtu.be/2MQdEklDFX4)
 
 Click the image above to watch the detailed tutorial on YouTube!
 
